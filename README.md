@@ -2,7 +2,7 @@
 
 Ciao a tutti ragazzi,
 
-Come avevamo discusso prima delle vacanze, Apriamo il progetto relativo al gioco di iniziazione che verrà fatto per i nuovi entrati al prossimo recruiting.
+Come avevamo discusso prima delle vacanze, apriamo il progetto relativo al gioco di iniziazione che verrà fatto per i nuovi entrati al prossimo recruiting.
 
 L'idea era quella di proporre un ambiente simile a quello del film "the social network" nella scena in cui viene svolta la selezione per accedere al progetto. Al momento si pensava di proporre qualcosa di semplice ed efficace, capace di convolgere sia studenti del secondo anno della triennale che studenti della magistrale.
 
